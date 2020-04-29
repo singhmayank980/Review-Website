@@ -1,0 +1,16 @@
+{
+    "params":{
+        "local_server":"True",
+        "local_uri":"mysql+pymysql://root:@localhost/MayankBlog",
+        "prod_uri":"mysql+pymysql://root:@localhost/MayankBlog",
+        "fb_url":"https://m.facebook.com/mayank.singh.parihar1999",
+        "twitter_url":"https://twitter.com",
+        "github_url":"https://github.com",
+        "blog_name":"Blogs By Msp",
+        "blogger_name":"Hello Geeks",
+        "tag_line": "Learning must go on",
+        "gmail-user":"sws11047@gmail.com",
+        "gmail-password":"ma68qz563",
+        "about-info":"Hello, I am Mayank Singh and this website is built with flask"
+    }
+}
